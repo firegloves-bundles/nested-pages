@@ -1,0 +1,13 @@
+code: nested
+parentCode: about_us
+titles:
+  en: Nested
+  it: Innestata
+pageModel: 1-column
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: unpublished
+widgets: []
